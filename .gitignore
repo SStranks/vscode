@@ -20,8 +20,3 @@ vscode.db
 product.overrides.json
 *.snap.actual
 .vscode-test
-.prettierignore
-.gitignore
-product.json
-.vscode/workspace.code-workspace
-.vscode/settings.json
